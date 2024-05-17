@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stickeraz" alt="stickeraz" /></a> </p>
 
-- 🔭 I’m currently working on [checkin](https://github.com/stickeraz/checkin)
+- 🔭 I’m currently working on [checkin](https://github.com/stickeraz/budget)
 
 - 🌱 I’m currently learning **Automation to help my small biz daily tasks**
 
-- 👨‍💻 All of my projects are available at [https://github.com/stickeraz/](https://github.com/stickeraz/)
+- 👨‍💻 All of my projects are available at [[https://github.com/stickeraz/](https://github.com/stickeraz/)](https://github.com/stickeraz?tab=repositories)
 
 - 📫 How to reach me **stickeraz.saz@gmail.com**
 
