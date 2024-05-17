@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Automation to help my small biz daily tasks**
 
-- 👨‍💻 All of my projects are available at [[https://github.com/stickeraz/](https://github.com/stickeraz/)](https://github.com/stickeraz?tab=repositories)
+- 👨‍💻 All of my projects are available at [here](https://github.com/stickeraz?tab=repositories)
 
 - 📫 How to reach me **stickeraz.saz@gmail.com**
 
