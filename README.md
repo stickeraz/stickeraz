@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stickeraz" alt="stickeraz" /></a> </p>
 
-- 🔭 I’m currently working on [budget](https://github.com/stickeraz/budget)
-
 - 🌱 I’m currently learning **Automation to help my small biz daily tasks**
 
 - 👨‍💻 All of my projects are available at [here](https://github.com/stickeraz?tab=repositories)
